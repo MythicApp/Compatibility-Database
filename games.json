@@ -1,0 +1,437 @@
+[
+    {
+        "game_name": "7 Days to Die",
+        "game_rating": "5"
+    },
+    {
+        "game_name": "Age of Empires 4",
+        "game_rating": "5"
+    },
+    {
+        "game_name": "Age of Empires II: Definitive Edition",
+        "game_rating": "4"
+    },
+    {
+        "game_name": "Assetto Corsa Competizione",
+        "game_rating": "5"
+    },
+    {
+        "game_name": "Astroneer",
+        "game_rating": "5"
+    },
+    {
+        "game_name": "Batman Arkham Knight",
+        "game_rating": "5"
+    },
+    {
+        "game_name": "BioShock Infinite",
+        "game_rating": "3"
+    },
+    {
+        "game_name": "Bloodstained: Ritual of the Night",
+        "game_rating": "5"
+    },
+    {
+        "game_name": "Chasm: The Rift",
+        "game_rating": "4",
+        "game_notes": "It works, but you can’t change any video options as it will crash. You have to manually edit the config file."
+    },
+    {
+        "game_name": "Codename: Loop",
+        "game_rating": "5"
+    },
+    {
+        "game_name": "Cogmind",
+        "game_rating": "5"
+    },
+    {
+        "game_name": "Control",
+        "game_rating": "5"
+    },
+    {
+        "game_name": "Counter Strike 2",
+        "game_rating": "5"
+    },
+    {
+        "game_name": "Crysis Remastered",
+        "game_rating": "5"
+    },
+    {
+        "game_name": "Cyberpunk 2077",
+        "game_rating": "4"
+    },
+    {
+        "game_name": "Days Gone",
+        "game_rating": "5"
+    },
+    {
+        "game_name": "Deceive Inc.",
+        "game_rating": "5",
+        "game_notes": "Works well if launched without EAC"
+    },
+    {
+        "game_name": "Deep Rock Galactic",
+        "game_rating": "5"
+    },
+    {
+        "game_name": "Derail Valley",
+        "game_rating": "5"
+    },
+    {
+        "game_name": "Diablo 2: Resurrected",
+        "game_rating": "5"
+    },
+    {
+        "game_name": "Diablo 4",
+        "game_rating": "5"
+    },
+    {
+        "game_name": "Disco Elysium",
+        "game_rating": "5"
+    },
+    {
+        "game_name": "Elden Ring",
+        "game_rating": "4",
+        "game_notes": "Requires a very powerful M1 or M2 Mac; Works only in offline mode due to EAC"
+    },
+    {
+        "game_name": "EVE Online",
+        "game_rating": "5"
+    },
+    {
+        "game_name": "F1 2020",
+        "game_rating": "4"
+    },
+    {
+        "game_name": "Fallout: New Vegas",
+        "game_rating": "4"
+    },
+    {
+        "game_name": "Final Fantasy VII Remake Intergrade",
+        "game_rating": "5"
+    },
+    {
+        "game_name": "Final Fantasy XIV",
+        "game_rating": "5"
+    },
+    {
+        "game_name": "Final Fantasy XV",
+        "game_rating": "5"
+    },
+    {
+        "game_name": "Firewatch",
+        "game_rating": "5"
+    },
+    {
+        "game_name": "Freeways",
+        "game_rating": "5"
+    },
+    {
+        "game_name": "Genshin Impact",
+        "game_rating": "5"
+    },
+    {
+        "game_name": "God of War",
+        "game_rating": "4",
+        "game_notes": "Okay performance on M1 Pro (16gb); not recommended playing it on weaker hardware."
+    },
+    {
+        "game_name": "Grand Theft Auto V",
+        "game_rating": "5"
+    },
+    {
+        "game_name": "Guild Wars 2",
+        "game_rating": "5"
+    },
+    {
+        "game_name": "Hogwarts Legacy",
+        "game_rating": "4"
+    },
+    {
+        "game_name": "Jazz Jackrabbit 2",
+        "game_rating": "5"
+    },
+    {
+        "game_name": "L.A. Noire",
+        "game_rating": "3"
+    },
+    {
+        "game_name": "Magicite",
+        "game_rating": "5"
+    },
+    {
+        "game_name": "Marvel’s Spider-Man Remastered",
+        "game_rating": "4"
+    },
+    {
+        "game_name": "Metal Gear Solid V: The Phantom Pain",
+        "game_rating": "5"
+    },
+    {
+        "game_name": "One piece odessey",
+        "game_rating": "5"
+    },
+    {
+        "game_name": "Osu!",
+        "game_rating": "5"
+    },
+    {
+        "game_name": "Outer Wilds",
+        "game_rating": "4"
+    },
+    {
+        "game_name": "Overwatch 2",
+        "game_rating": "5"
+    },
+    {
+        "game_name": "Portal",
+        "game_rating": "4"
+    },
+    {
+        "game_name": "Portal 2",
+        "game_rating": "4"
+    },
+    {
+        "game_name": "Remnant from the Ashes",
+        "game_rating": "5"
+    },
+    {
+        "game_name": "Resident Evil 3 (2020)",
+        "game_rating": "5"
+    },
+    {
+        "game_name": "Risk of Rain 2",
+        "game_rating": "5"
+    },
+    {
+        "game_name": "Rocket League",
+        "game_rating": "4"
+    },
+    {
+        "game_name": "Satisfactory",
+        "game_rating": "4"
+    },
+    {
+        "game_name": "Spore",
+        "game_rating": "5"
+    },
+    {
+        "game_name": "Star Wars Jedi: Fallen Order",
+        "game_rating": "5"
+    },
+    {
+        "game_name": "StarCraft: Remastered",
+        "game_rating": "5",
+        "game_notes": "Opening the option menu a second time causes a bug that prevents the game from recognizing any inputs."
+    },
+    {
+        "game_name": "Stray",
+        "game_rating": "5"
+    },
+    {
+        "game_name": "System Shock",
+        "game_rating": "5"
+    },
+    {
+        "game_name": "Tell Me Why",
+        "game_rating": "5"
+    },
+    {
+        "game_name": "Tetris Effect: Connected",
+        "game_rating": "4",
+        "game_notes": "Doesn’t run well with Retina Mode On"
+    },
+    {
+        "game_name": "The Sims 4",
+        "game_rating": "5"
+    },
+    {
+        "game_name": "The Witcher 3",
+        "game_rating": "4"
+    },
+    {
+        "game_name": "V Rising",
+        "game_rating": "5"
+    },
+    {
+        "game_name": "Valheim",
+        "game_rating": "4"
+    },
+    {
+        "game_name": "Vampyr",
+        "game_rating": "4"
+    },
+    {
+        "game_name": "Warframe",
+        "game_rating": "5",
+        "game_notes": "In order to get the game’s installer/launcher to work, you must add “dwrite (disabled)” to library overrides in winecfg"
+    },
+    {
+        "game_name": "XIII",
+        "game_rating": "5"
+    },
+    {
+        "game_name": "AnimA: Reign of Darkness",
+        "game_rating": "3"
+    },
+    {
+        "game_name": "ARK: Survival Evolved",
+        "game_rating": "3"
+    },
+    {
+        "game_name": "Assassins Creed 3 Remastered",
+        "game_rating": "3"
+    },
+    {
+        "game_name": "Atomic Heart",
+        "game_rating": "3"
+    },
+    {
+        "game_name": "Blood: Fresh Supply",
+        "game_rating": "3"
+    },
+    {
+        "game_name": "Borderlands 3",
+        "game_rating": "3"
+    },
+    {
+        "game_name": "Brick Rigs",
+        "game_rating": "3"
+    },
+    {
+        "game_name": "Cultic",
+        "game_rating": "3"
+    },
+    {
+        "game_name": "Cuphead",
+        "game_rating": "3"
+    },
+    {
+        "game_name": "Dead Space Remake",
+        "game_rating": "3"
+    },
+    {
+        "game_name": "Dread Templar",
+        "game_rating": "3"
+    },
+    {
+        "game_name": "Duke Nukem 3D HRP (eduke32)",
+        "game_rating": "3"
+    },
+    {
+        "game_name": "Dying Light 2",
+        "game_rating": "3",
+        "game_notes": "Needs AVX fix."
+    },
+    {
+        "game_name": "Five Nights At Freddy’s Security Breach",
+        "game_rating": "3"
+    },
+    {
+        "game_name": "Friends vs. Friends",
+        "game_rating": "3"
+    },
+    {
+        "game_name": "Gloomwood",
+        "game_rating": "3"
+    },
+    {
+        "game_name": "Going Medieval",
+        "game_rating": "3"
+    },
+    {
+        "game_name": "Green Hell",
+        "game_rating": "3"
+    },
+    {
+        "game_name": "Guilty Gear Strive",
+        "game_rating": "3"
+    },
+    {
+        "game_name": "Halo 3 (MCC)",
+        "game_rating": "3",
+        "game_notes": "Master Chief Collection – no multiplayer due to EAC."
+    },
+    {
+        "game_name": "Halo Reach (MCC)",
+        "game_rating": "3"
+    },
+    {
+        "game_name": "Hatsune Miku: Project DIVA Mega Mix+",
+        "game_rating": "3",
+        "game_notes": "Works with Retina mode; DivaModLoader and DivaNoSpy recommended run Steam with WINEDEBUG=-all WINEESYNC=0 • WINEDLLOVERRIDES=”dinput8.dll=n,b” may randomly crash at the title screen: use IntroPatch as a workaround"
+    },
+    {
+        "game_name": "Infinity Racer XD",
+        "game_rating": "3"
+    },
+    {
+        "game_name": "Kena: Bridge of Spirits",
+        "game_rating": "3"
+    },
+    {
+        "game_name": "Only Up!",
+        "game_rating": "3"
+    },
+    {
+        "game_name": "People Playground",
+        "game_rating": "3"
+    },
+    {
+        "game_name": "PowerSlave Exhumed",
+        "game_rating": "3"
+    },
+    {
+        "game_name": "Prodeus",
+        "game_rating": "3"
+    },
+    {
+        "game_name": "Project Warlock",
+        "game_rating": "3"
+    },
+    {
+        "game_name": "QUBE 2",
+        "game_rating": "3"
+    },
+    {
+        "game_name": "Ready or Not",
+        "game_rating": "3"
+    },
+    {
+        "game_name": "Scarlet Nexus",
+        "game_rating": "3"
+    },
+    {
+        "game_name": "Sonic GT",
+        "game_rating": "3"
+    },
+    {
+        "game_name": "Sonic illusions",
+        "game_rating": "3"
+    },
+    {
+        "game_name": "Sonic Omens",
+        "game_rating": "3"
+    },
+    {
+        "game_name": "Sonic Project ’06",
+        "game_rating": "3"
+    },
+    {
+        "game_name": "Spider-Man Miles Morales",
+        "game_rating": "3",
+        "game_notes": "Requires Windows version fix."
+    },
+    {
+        "game_name": "SpongeBob SquarePants: The Cosmic Shake",
+        "game_rating": "3"
+    },
+    {
+        "game_name": "Tiny Tina Wonderlands",
+        "game_rating": "3"
+    },
+    {
+        "game_name": "WRATH: Aeon of Ruin",
+        "game_rating": "3"
+    }
+]
